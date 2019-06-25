@@ -1,0 +1,29 @@
+body { 
+    background: #333;
+}
+
+.h1-title { 
+    font-family: 'Roboto', sans-serif;
+    text-align: center; 
+
+    display: block;
+
+    color:#FFF;
+}
+
+.a-logo { text-decoration: none; }
+
+.a-logo .div-logo { 
+    display: flex; 
+
+    align-content: center;
+    justify-content: center;
+}
+
+.p-footer {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    text-align: center;
+
+    color:#FFF;
+}
