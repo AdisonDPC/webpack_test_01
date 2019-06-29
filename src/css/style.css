@@ -1,10 +1,10 @@
-body { 
+body {
     background: #333;
 }
 
-.h1-title { 
+.h1-title {
     font-family: 'Roboto', sans-serif;
-    text-align: center; 
+    text-align: center;
 
     display: block;
 
@@ -13,8 +13,8 @@ body {
 
 .a-logo { text-decoration: none; }
 
-.a-logo .div-logo { 
-    display: flex; 
+.a-logo .div-logo {
+    display: flex;
 
     align-content: center;
     justify-content: center;
